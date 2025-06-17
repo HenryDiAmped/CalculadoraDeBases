@@ -1,0 +1,10 @@
+C:\Users\Henry\Desktop\CodigoFinalCalculadora\CalculadoraDeBases\CalculadoraDeBases\bin\Debug\CalculadoraDeBases.exe.config
+C:\Users\Henry\Desktop\CodigoFinalCalculadora\CalculadoraDeBases\CalculadoraDeBases\bin\Debug\CalculadoraDeBases.exe
+C:\Users\Henry\Desktop\CodigoFinalCalculadora\CalculadoraDeBases\CalculadoraDeBases\bin\Debug\CalculadoraDeBases.pdb
+C:\Users\Henry\Desktop\CodigoFinalCalculadora\CalculadoraDeBases\CalculadoraDeBases\obj\Debug\CalculadoraDeBases.csproj.AssemblyReference.cache
+C:\Users\Henry\Desktop\CodigoFinalCalculadora\CalculadoraDeBases\CalculadoraDeBases\obj\Debug\CalculadoraDeBases.Form1.resources
+C:\Users\Henry\Desktop\CodigoFinalCalculadora\CalculadoraDeBases\CalculadoraDeBases\obj\Debug\CalculadoraDeBases.Properties.Resources.resources
+C:\Users\Henry\Desktop\CodigoFinalCalculadora\CalculadoraDeBases\CalculadoraDeBases\obj\Debug\CalculadoraDeBases.csproj.GenerateResource.cache
+C:\Users\Henry\Desktop\CodigoFinalCalculadora\CalculadoraDeBases\CalculadoraDeBases\obj\Debug\CalculadoraDeBases.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Desktop\CodigoFinalCalculadora\CalculadoraDeBases\CalculadoraDeBases\obj\Debug\CalculadoraDeBases.exe
+C:\Users\Henry\Desktop\CodigoFinalCalculadora\CalculadoraDeBases\CalculadoraDeBases\obj\Debug\CalculadoraDeBases.pdb
